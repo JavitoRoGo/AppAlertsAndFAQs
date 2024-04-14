@@ -1,0 +1,86 @@
+[
+	{
+		"question" : "How do can I get the time it takes to go from my current loctation to one of my placemarks and display the route?",
+		"sortOrder" : 4,
+		"answer" : "In the Current Location tab, tap on the destination and when the destination detail view appears, you will see the time at the tip and then you can tap the “Show Route” button to have it plotted on the map.",
+		"linkType" : "Local Video",
+		"link" : {
+			"url" : "ShowRoute.mp4",
+			"title" : "Play Video"
+		},
+		"level" : 1
+	},
+	{
+		"answer" : "There are lots of great resources out there.  100DaysOfSwiftUI by Paul Hudson is a great place to start but you also might like to watch videos created by Stewart Lynch who focusses on this topic.",
+		"linkType" : "External Link",
+		"link" : {
+			"title" : "Stewart Lynch on YouTube",
+			"url" : "https:\/\/youtube.com\/@StewartLynch"
+		},
+		"level" : 2,
+		"sortOrder" : 2,
+		"question" : "I am interested in learning how to develop applications in SwiftUI.  Do you have any suggestions for learning?"
+	},
+	{
+		"answer" : "You can choose 'New Application` from the File Menu.",
+		"sortOrder" : 1,
+		"linkType" : "none",
+		"level" : 1,
+		"question" : "How can I add more items to the application?"
+	},
+	{
+		"level" : 1,
+		"link" : {
+			"title" : "CreaTECH Solutions",
+			"url" : "http:\/\/www.createchsol.com"
+		},
+		"question" : "Where can I find more information about the developer?",
+		"answer" : "The developer is Stewart Lynch and you can find out more about him from his web site",
+		"sortOrder" : 6,
+		"linkType" : "External Link"
+	},
+	{
+		"level" : 1,
+		"link" : {
+			"url" : "Sample.html",
+			"title" : "Show Example"
+		},
+		"linkType" : "Local Link",
+		"question" : "Can I add my own html pages to my FAQs\t",
+		"answer" : "Yes, the simplest type is the single html page with no images,",
+		"sortOrder" : 2
+	},
+	{
+		"sortOrder" : 3,
+		"linkType" : "Local Link",
+		"level" : 1,
+		"link" : {
+			"title" : "Show Example",
+			"url" : "FolderHTML"
+		},
+		"question" : "Can I display more complex html pages?",
+		"answer" : "Yes.  Just create a folder within the html folder and make sure your start page is titled ‘index.html’"
+	},
+	{
+		"link" : {
+			"url" : "https:\/\/www.createchsol.com\/appPortfolio\/",
+			"title" : "CreaTECH App Portfolio"
+		},
+		"level" : 2,
+		"question" : "Does this developer have more applications?",
+		"answer" : "Yes, this developer has created many applications.  You can find out more about them on his web site.  See the link below",
+		"linkType" : "External Link",
+		"sortOrder" : 1
+	},
+	{
+		"question" : "What is your home hardware setup?\t",
+		"sortOrder" : 5,
+		"linkType" : "Local Image",
+		"link" : {
+			"title" : "View Setup",
+			"url" : "DevDesktop.jpeg"
+		},
+		"answer" : "I have an M2 Mac Mini with a 39” display and external monitor as well.  I use an Elgato teleprompter for my videos too.\nTake a look at my setup",
+		"level" : 1
+	}
+]
